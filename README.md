@@ -11,4 +11,21 @@ Various useful sources for web development or programming in general
 | [Codewell](https://www.codewell.cc/)| Simmilar to Frontend Mentor  | 
 
 
+## HTML
+| Link | Description |
+| :-------------: | ------------- |
+
+
+## CSS
+| Link | Description |
+| :-------------: | ------------- |
+
+
+
+
+
+
+
+
+
 
