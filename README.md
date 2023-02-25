@@ -8,7 +8,7 @@ Various useful sources for web development or programming in general
 |[Codewars](https://www.codewars.com) | Simmilar to Leetcode, varying difficulty | 
 |[HackerRank](https://www.hackerrank.com/) | Simmilar to Leetcode, varying difficulty | 
 | [Frontend Mentor](https://www.frontendmentor.io/home)| Solving Real world HTML, CSS & JS challenges | 
-| Content Cell  | Content Cell  | 
+| [Codewell](https://www.codewell.cc/)| Simmilar to Frontend Mentor  | 
 
 
 
