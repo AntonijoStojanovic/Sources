@@ -21,6 +21,16 @@ Various useful sources for web development or programming in general
 | :-------------: | ------------- |
 
 
+## Git
+| Link | Description |
+| :-------------: | ------------- |
+
+## Useful Plug-ins 
+| Link | Description |
+| :-------------: | ------------- |
+
+
+
 
 
 
