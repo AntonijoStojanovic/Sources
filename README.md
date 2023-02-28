@@ -29,6 +29,7 @@ Various useful sources for web development or programming in general
 | Link | Description |
 | :-------------: | ------------- |
 |[Git guide](http://rogerdudler.github.io/git-guide/) | Basic git guide to get you going fast |
+|[Official](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)| Official github documentation |
 
 ## Useful Plug-ins 
 | Link | Description |
