@@ -18,6 +18,7 @@ Various useful sources for web development or programming in general
 ## HTML
 | Link | Description |
 | :-------------: | ------------- |
+|[web.dev](https://web.dev/learn/)| MDN like source from Google  | 
 
 
 ## CSS
