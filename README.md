@@ -36,6 +36,12 @@ Various useful sources for web development or programming in general
 | Link | Description |
 | :-------------: | ------------- |
 
+## QA Testing
+| Link | Description |
+| :-------------: | ------------- |
+|[Guru99](https://www.guru99.com/)| Good resource for testing and AI|
+
+
 
 
 
