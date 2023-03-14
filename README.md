@@ -31,7 +31,7 @@ Various useful sources for web development or programming in general
 | :-------------: | ------------- |
 
 
-## CSS
+## JS
 | Link | Description |
 | :-------------: | ------------- |
 |[javascript.info](https://javascript.info/)| Javascript related topics |
