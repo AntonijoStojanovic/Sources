@@ -41,6 +41,7 @@ Various useful sources for web development or programming in general
 | :-------------: | ------------- |
 |[Git guide](http://rogerdudler.github.io/git-guide/) | Basic git guide to get you going fast |
 |[Official](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)| Official github documentation |
+|[Learn Git Branching](https://learngitbranching.js.org/)|Interactive git usage tutorial|
 
 ## Misc
 | Link | Description |
