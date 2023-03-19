@@ -29,6 +29,7 @@ Various useful sources for web development or programming in general
 ## CSS
 | Link | Description |
 | :-------------: | ------------- |
+|[The CSS Cascade](https://wattenberger.com/blog/css-cascade)| Very unique source related to specificity|
 
 
 ## JS
