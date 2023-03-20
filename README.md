@@ -23,13 +23,15 @@ Various useful sources for web development or programming in general
 ## HTML
 | Link | Description |
 | :-------------: | ------------- |
-|[web.dev](https://web.dev/learn/)| MDN like source from Google  | 
+|[web.dev](https://web.dev/learn/)| MDN like source from Google |
+
 
 
 ## CSS
 | Link | Description |
 | :-------------: | ------------- |
 |[The CSS Cascade](https://wattenberger.com/blog/css-cascade)| Very unique source related to specificity|
+|[Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)|Handy tutorial for Flexbox|
 
 
 ## JS
