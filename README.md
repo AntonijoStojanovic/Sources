@@ -49,6 +49,7 @@ Various useful sources for web development or programming in general
 |[devdocs.io](https://devdocs.io/)|DevDocs combines multiple API documentations in a fast, organized, and searchable interface|
 |https://docs.emmet.io| Documentation for Emmet toolkit| 
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)||
+|http://httpbin.org/#/|Sends back a response which will let us view what data was submitted|
 
 ## QA Testing
 | Link | Description |
