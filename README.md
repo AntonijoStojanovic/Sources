@@ -19,6 +19,8 @@ Various useful sources for web development or programming in general
 | Link | Description |
 | :-------------: | ------------- |
 |[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)|This article discusses what the Internet is and how it works.|
+|[cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)|What is HTTP?|
+
 
 ## HTML
 | Link | Description |
