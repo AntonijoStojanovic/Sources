@@ -21,12 +21,14 @@ Various useful sources for web development or programming in general
 |[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)|This article discusses what the Internet is and how it works.|
 |[cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)|What is HTTP?|
 |[cloudflare](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)|What is DNS?|
+|https://messwithdns.net/|Cool website where you can interact with DNS mockup|
 
 
 ## HTML
 | Link | Description |
 | :-------------: | ------------- |
 |[web.dev](https://web.dev/learn/)| MDN like source from Google |
+
 
 ## CSS
 | Link | Description |
