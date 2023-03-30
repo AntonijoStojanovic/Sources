@@ -18,6 +18,7 @@ Various useful sources for web development or programming in general
 ## Internet
 | Link | Description |
 | :-------------: | ------------- |
+|[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)|This article discusses what the Internet is and how it works.|
 
 ## HTML
 | Link | Description |
