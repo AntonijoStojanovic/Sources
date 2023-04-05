@@ -52,6 +52,12 @@ Various useful sources for web development or programming in general
 |[Learn Git Branching](https://learngitbranching.js.org/)|Interactive git usage tutorial|
 
 
+## UX/UI
+| Link | Description |
+| :-------------: | ------------- |
+|https://www.dailyui.co/ |Daily design challenges|
+
+
 ## Misc
 | Link | Description |
 | :-------------: | ------------- |
