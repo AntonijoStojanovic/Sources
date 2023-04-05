@@ -14,6 +14,7 @@ Various useful sources for web development or programming in general
 |[HackerRank](https://www.hackerrank.com/) | Simmilar to Leetcode, varying difficulty | 
 |[Frontend Mentor](https://www.frontendmentor.io/home)| Solving Real world HTML, CSS & JS challenges | 
 |[Codewell](https://www.codewell.cc/)| Simmilar to Frontend Mentor| 
+|https://www.frontendpractice.com/|Take your frontend skills to the next level by recreating real websites from real companies|
 
 ## Internet
 | Link | Description |
