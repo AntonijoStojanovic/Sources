@@ -30,6 +30,7 @@ Various useful sources for web development or programming in general
 | :-------------: | ------------- |
 |[web.dev](https://web.dev/learn/)| MDN like source from Google |
 |https://cs.fyi/guide/writing-semantic-html| Tips for writing semantic HTML|
+|https://www.freecodecamp.org/news/html-best-practices/| Best practices for writing HTML|
 
 
 ## CSS
