@@ -57,6 +57,7 @@ Various useful sources for web development or programming in general
 | Link | Description |
 | :-------------: | ------------- |
 |https://www.dailyui.co/ |Daily design challenges|
+|https://www.w3.org/WAI/tips/designing/| Designing for Web Accesssibility|
 
 
 ## Misc
