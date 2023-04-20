@@ -33,6 +33,8 @@ Various useful sources for web development or programming in general
 |https://www.freecodecamp.org/news/html-best-practices/| Best practices for writing HTML|
 |https://web.dev/accessibility/| Guide for accesibility|
 
+## SEO
+
 
 ## CSS
 | Link | Description |
