@@ -29,6 +29,7 @@ Various useful sources for web development or programming in general
 | Link | Description |
 | :-------------: | ------------- |
 |[web.dev](https://web.dev/learn/)| MDN like source from Google |
+|https://cs.fyi/guide/writing-semantic-html| Tips for writing semantic HTML|
 
 
 ## CSS
